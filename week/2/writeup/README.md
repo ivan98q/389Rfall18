@@ -27,7 +27,7 @@ Digital acknowledgement of honor pledge: *Ivan Quiles*
 5. 142.93.117.193 links to the "admin" site. I found it by clicking the admin part of the site.
 
 6. If you scan the ports for the IP address found above with netcat you can find a few different services that are on the server. There's an ssh port
-   and there's an administrative service that seems to be the target. This is the server for the administrative part of the website so it's a bit different.
+   and there's an administrative service that seems to be the target. This is the server for the administrative part of the website so it's a bit different. The server is located in New York and it's owned by Digital Ocean.
 
 
 7. Ubuntu. There's a few different ways. I just typed a random directory that wasn't real and it just told me.
